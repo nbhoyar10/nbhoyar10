@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nbhoyar10
-- 👀 I’m interested in Machine Learning 
+- 👀 I’m interested in Data analysis 
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Machine learning project
 - 📫 How to reach me nirbhayyb
