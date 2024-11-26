@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nbhoyar10
-- 👀 I’m interested in Data analysis 
+- 👀 I’m interested in AI and Data science
 - 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on Machine learning project
+- 💞️ I’m looking to collaborate on Machine learning, PowerBI, SQL project
 - 📫 How to reach me nirbhayyb
 
 <!---
